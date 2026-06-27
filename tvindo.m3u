@@ -3,9 +3,17 @@
 #EXTINF:-1 group-title="TV Indonesia",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="TV Indonesia",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|Referer=https://20.detik.com/live/trans7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="TV Indonesia",CNNIndo
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|Referer=https://20.detik.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="TV Indonesia",Beritasatu
+https://op-flashcon-digdayahd-1.dens.tv//h//h209//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="TV Indonesia",Nusantaratv
+https://op-flashcon-digdayahd-1.dens.tv//h//h37//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="TV Indonesia",RTV
+https://op-flashcon-digdayahd-1.dens.tv//h//h10//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="TV Indonesia",GarudaTv
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8|Referer=https://garuda.tv/live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TV Indonesia",SPOTV
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
 #EXTINF:-1 group-title="TV Indonesia",SPOTV2
@@ -18,3 +26,4 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/1052/index.m3u8|Referer=https:/
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12247/index.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
  #EXTINF:-1 group-title="TV Indonesia",DiscoveyCh
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6103/index.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
