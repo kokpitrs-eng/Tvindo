@@ -16,6 +16,8 @@ https://op-flashcon-digdayahd-1.dens.tv//h//h10//index.m3u8|Referer=https://dens
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8|Referer=https://garuda.tv/live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TV Indonesia",Metrotv
 https://op-flashcon-digdayahd-1.dens.tv//h//h12//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="TV Indonesia",TVRI
+https://op-flashcon-digdayahd-1.dens.tv//h//h17//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TV Indonesia",BigStories
 https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TV Indonesia",SPOTV
