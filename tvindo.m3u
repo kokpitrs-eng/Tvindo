@@ -1,44 +1,64 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indonesia.xml"
 
-#EXTINF:-1 group-title="TV Indonesia",TransTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="TV Indonesia",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|Referer=https://20.detik.com/live/trans7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="TV Indonesia",CNNIndo
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|Referer=https://20.detik.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",Beritasatu
-https://op-flashcon-digdayahd-1.dens.tv//h//h209//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",Nusantaratv
-https://op-flashcon-digdayahd-1.dens.tv//h//h37//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",RTV
-https://op-flashcon-digdayahd-1.dens.tv//h//h10//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",GarudaTv
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8|Referer=https://garuda.tv/live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",Metrotv
-https://op-flashcon-digdayahd-1.dens.tv//h//h12//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Trans_TV_2013.svg" group-title="TV Indo",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="TV Indonesia",BigStories
-https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",SPOTV
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Trans7_2013.svg" group-title="TV Indo",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|Referer=https://20.detik.com/live/trans7&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN_Indonesia.svg" group-title="TV Indo",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|Referer=https://20.detik.com/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/BeritaSatu_logo.svg" group-title="TV Indo",BeritaSatu
+https://op-flashcon-digdayahd-1.dens.tv/h/h209/index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MetroTV_logo.svg" group-title="TV Indo",Metro TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/TVRI_2023.svg" group-title="TV Indo",TVRI
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/RTV_%28Indonesia%29_logo.svg" group-title="TV Indo",RTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Nusantara_TV_logo.svg" group-title="TV Indo",Nusantara TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="bigstories.id" tvg-name="Big Stories" tvg-logo="https://seeklogo.com/images/B/big-stories-logo.png" group-title="TV Indo",BigStories
+https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="garudatv.id" tvg-name="Garuda TV" tvg-logo="https://seeklogo.com/images/G/garuda-tv-logo.png" group-title="TV Indo",GarudaTv
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8|Referer=https://garuda.tv/live/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="spotv.id" tvg-name="SPOTV" tvg-logo="https://seeklogo.com/images/S/spotv-logo.png" group-title="TV Luar",SPOTV
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
-#EXTINF:-1 group-title="TV Indonesia",SPOTV2
-http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
-#EXTINF:-1 group-title="TV Indonesia",HGTV
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6391/index.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="TV Indonesia",History2
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/1052/index.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="TV Indonesia",NatGeo
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12247/index.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",DiscoveyCh
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6103/index.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",TNTSport1
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2505/index.m3u8|Referer=https://20.detik.com/live/transtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",FS1
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/7322/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",TNTSport2
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2506/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",TNTSport3
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6564/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="TV Indonesia",TVRI
-https://op-flashcon-digdayahd-1.dens.tv//h//h17//index.m3u8|Referer=https://dens.tv/tv-local/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="spotv2.id" tvg-name="SPOTV 2" tvg-logo="https://seeklogo.com/images/S/spotv2-logo.png" group-title="TV Luar",SPOTV2
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
+
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="https://seeklogo.com/images/H/hgtv-logo.png" group-title="TV Luar",HGTV
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6391/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="history2.us" tvg-name="History2" tvg-logo="https://seeklogo.com/images/H/history2-logo.png" group-title="TV Luar",History2
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/1052/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://seeklogo.com/images/N/national-geographic-logo.png" group-title="TV Luar",NatGeo
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12247/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo.png" group-title="TV Luar",DiscoveryCh
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6103/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://seeklogo.com/images/T/tnt-sports-logo.png" group-title="TV Luar",TNTSport1
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2505/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="fs1.us" tvg-name="FOX Sports 1" tvg-logo="https://seeklogo.com/images/F/fox-sports-1-logo.png" group-title="TV Luar",FS1
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/7322/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://seeklogo.com/images/T/tnt-sports-logo.png" group-title="TV Luar",TNTSport2
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2506/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://seeklogo.com/images/T/tnt-sports-logo.png" group-title="TV Luar",TNTSport3
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6564/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0 
+
+#EXTINF:-1 tvg-id="outdoor.uk" tvg-name="Outdoor" tvg-logo="https://seeklogo.com/images/outdoor.png" group-title="TV Luar",OutdoorCh
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0
