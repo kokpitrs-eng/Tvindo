@@ -32,7 +32,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8|Referer=ht
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8|Referer=https://garuda.tv/live/&User-Agent=Mozilla/5.0 
 
 #EXTINF:-1 tvg-id="spotv.id" tvg-name="SPOTV" tvg-logo="https://seeklogo.com/images/S/spotv-logo.png" group-title="TV Luar",SPOTV
-http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8|Referer=http://primestreams.tv:826/live/&User-Agent=Mozilla/5.0
+http://103.137.83.62:9090/play/32/index.m3u8|Referer=http://primestreams.tv:826/live/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="spotv2.id" tvg-name="SPOTV 2" tvg-logo="https://seeklogo.com/images/S/spotv2-logo.png" group-title="TV Luar",SPOTV2
 http://103.137.83.62:9090/play/33/index.m3u8|Referer=http://primestreams.tv:826/live/&User-Agent=Mozilla/5.0
