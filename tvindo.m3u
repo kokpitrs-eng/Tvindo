@@ -63,3 +63,6 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6564/index.m3u8|Referer=https:/
 
 #EXTINF:-1 tvg-id="outdoor.uk" tvg-name="Outdoor" tvg-logo="https://seeklogo.com/images/outdoor.png" group-title="TV Luar",OutdoorCh
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="history.uk" tvg-name="Outdoor" tvg-logo="https://seeklogo.com/images/history.png" group-title="TV Luar", HistoryHD
+http://45.190.28.50/HISTORY_HD/index.m3u8|Referer=https://livetv24.org/&User-Agent=Mozilla/5.0
